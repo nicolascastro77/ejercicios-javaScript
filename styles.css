@@ -1,0 +1,27 @@
+*{
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+}
+
+body{
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+.rojo{
+    color: tomato;
+}
+
+.sec1{
+background-color: lightblue;
+height: 400px;
+margin: 10px;
+}
+.sec2{
+    background-color: lightcoral;
+    height: 400px;
+    margin: 10px;
+}
